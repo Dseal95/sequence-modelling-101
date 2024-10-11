@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+notebook
+torch
+torchvision
+opencv-python
+seaborn
+pytest
+progressbar
+tqdm
+pytorch_msssim
